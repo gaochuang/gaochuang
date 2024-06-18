@@ -1,4 +1,8 @@
-<p align="center"><a href="https://github.com/gaochuang"><img width="80%" alt="Hello, I'm Gao Chuang I write bugs!"/></a></p>
+<p align="center">
+  <a href="https://github.com/gaochuang">
+    <img width="30%" alt="Hello, I'm Gao Chuang! I write bugs!" src="./image/pf.png"/>
+  </a>
+</p>
 
 <!--
 **gaochuang/gaochuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,20 +24,5 @@
 <code><img height="20" alt="prometheus" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861b90338ef68a7126fbdc40d72/topics/prometheus/prometheus.png"></code>
 
 
-
-``
-
-
-
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gaochuang&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaochuang&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-#### Top Repositories
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gaochuang&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gaochuang&repo=anuraghazra.github.io&theme=buefy" />
-</a>
