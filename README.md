@@ -1,4 +1,5 @@
-## Hi there 👋
+<p align="center"><a href="https://gaochuang.github.io"><img width="80%" alt="Hello, I'm Gao Chuang I write bugs!" src="./assets/gh-readme-header.png" /></a></p>
+
 
 <!--
 **gaochuang/gaochuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
