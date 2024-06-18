@@ -1,10 +1,7 @@
-<p align="center"><a href="https://gaochuang.github.io"><img width="80%" alt="Hello, I'm Gao Chuang I write bugs!" src="./assets/gh-readme-header.png" /></a></p>
-
+<p align="center"><a href="https://github.com/gaochuang"><img width="80%" alt="Hello, I'm Gao Chuang I write bugs!"/></a></p>
 
 <!--
 **gaochuang/gaochuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,3 +12,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<code><img height="20" alt="kubernetes" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png"></code>
+<code><img height="20" alt="golang" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/go/go.png"></code>
+<code><img height="20" alt="cpp" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/cpp/cpp.png"></code>
+<code><img height="20" alt="linux" src="https://raw.githubusercontent.com/github/explore/e65ef46ef3e7bc457c93622f6a89fe8d3fd131d5/topics/linux/linux.png"></code>
+<code><img height="20" alt="c" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"></code>
+<code><img height="20" alt="prometheus" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861b90338ef68a7126fbdc40d72/topics/prometheus/prometheus.png"></code>
+
+
+
+``
+
+
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gaochuang&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaochuang&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Top Repositories
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gaochuang&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gaochuang&repo=anuraghazra.github.io&theme=buefy" />
+</a>
