@@ -23,5 +23,5 @@
 <code><img height="20" alt="c" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"></code>
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gaochuang&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaochuang&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/gaochuang/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gaochuang&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Gaochuang's github stats" /></a> | <a href="https://github.com/gaochuang/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaochuang&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
