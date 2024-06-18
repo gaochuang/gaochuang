@@ -21,7 +21,6 @@
 <code><img height="20" alt="cpp" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/cpp/cpp.png"></code>
 <code><img height="20" alt="linux" src="https://raw.githubusercontent.com/github/explore/e65ef46ef3e7bc457c93622f6a89fe8d3fd131d5/topics/linux/linux.png"></code>
 <code><img height="20" alt="c" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"></code>
-<code><img height="20" alt="prometheus" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861b90338ef68a7126fbdc40d72/topics/prometheus/prometheus.png"></code>
 
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gaochuang&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaochuang&layout=compact&theme=buefy&hide_border=true" /></a> |
