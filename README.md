@@ -1,7 +1,10 @@
 <p align="center">
   <a href="https://github.com/gaochuang">
-    <img width="30%" alt="Hello, I'm Gao Chuang! I write bugs!" src="./image/pf.png"/>
+    <img width="30%" src="./image/pf.png" alt="Gao Chuang's profile picture"/>
   </a>
+</p>
+<p align="center">
+  <a href="https://github.com/gaochuang">Hello, I'm Gao Chuang! I write bugs!</a>
 </p>
 
 <!--
